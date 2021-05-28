@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _30_01_H
+namespace Module_1_Task_2
 {
     class Program
     {
